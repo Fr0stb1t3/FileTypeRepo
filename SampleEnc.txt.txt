@@ -1,0 +1,1 @@
+This is A sample Encripted File. Using this to check if zscaler can Unscannable section works.
