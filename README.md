@@ -12,10 +12,8 @@ Testing files in a repository is crucial for several reasons. Firstly, it ensure
 - APK
 - etc.
 
-As a community we can work together to test more and more files to ensure that errors and bugs in programs do not occur and the effcieny of workflow is always maximized.
+As a community we can work together to test more and more files to ensure that errors and bugs in programs do not occur and the effcieny of workflow is always maximized🙌🙂.
 
-## Contributing
+## Contributing 😎🧑‍💻
 
-Thanks for your interest in contributing! There are many ways to contribute to this project. [Get started here](CONTRIBUTING.md)
-
-#
+This project is open to the community and anyone can contribute to it, there are many ways to contribute to this project. To contribute to this project, ensure to follow the guidelines found [here](CONTRIBUTING.md).
