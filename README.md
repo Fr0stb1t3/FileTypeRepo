@@ -1,11 +1,19 @@
 # FileTypeRepo
 
-Testing files in a repository is crucial for several reasons. 
-Firstly, it ensures that the code within the repository functions as intended and produces the expected results. 
-By running tests, developers can identify and fix any errors or bugs, improving the overall quality of the codebase. 
-Additionally, testing helps catch issues before they impact end-users, preventing potential disruptions or negative experiences. 
-Furthermore, automated tests can serve as documentation, providing insight into the intended functionality and expected behavior of the code. 
-By establishing these tests as a standard practice, developers can collaborate more effectively, ensuring that changes or additions to the codebase do not inadvertently introduce problems.
-Ultimately, testing files in a repository is vital for maintaining code reliability, enhancing user satisfaction, and fostering a collaborative and efficient development workflow.
+Testing files in a software repository is a critical process that ensures code functions correctly and meets user expectations. It involves planning test cases, setting up test environments, and executing tests to identify issues and report them for resolution. Automation can streamline repetitive testing tasks, and regression testing helps prevent new issues from arising. Additional testing, such as performance and security assessments, may be needed based on project requirements. Continuous integration and deployment integrate testing into the development workflow, and monitoring in production ensures ongoing reliability. Regular review and improvement of the testing process help maintain code quality and efficiency.
 
 As a community we can work together to test more and more files to ensure that errors and bugs in programs do not occur and the effcieny of workflow is always maximized.
+
+**_File types tested_**
+
+- PDF
+- TXT
+- TAR
+- GZ
+- PNG
+- APK
+- etc.
+
+## Contributing 😎🧑‍💻
+
+This project is open to the community and anyone can contribute to it, there are many ways to contribute to this project. To contribute to this project, ensure to follow the guidelines found [here](CONTRIBUTING.md).
